@@ -1,0 +1,14 @@
+[
+  {
+      "id": 11,
+      "src": "aws",
+      "title": "AWS",
+      "style": "hover:shadow-orange-500"
+  },
+  {
+      "id": 12,
+      "src": "microsoftAzure",
+      "title": "Microsoft Azure",
+      "style": "hover:shadow-blue-500"
+  }
+]

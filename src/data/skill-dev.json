@@ -1,49 +1,38 @@
 [
   {
-    "id": 10, 
-    "name": "javascript"
+      "id": 1,
+      "src": "javascript",
+      "title": "Javascript",
+      "style": "hover:shadow-yellow-500"
   },
-
   {
-    "id": 20, 
-    "name": "python"
+      "id": 2,
+      "src": "typescript",
+      "title": "Typescript",
+      "style": "hover:shadow-blue-500"
   },
-
-
   {
-    "id": 30, 
-    "name": "css"
+      "id": 3,
+      "src": "python",
+      "title": "Python",
+      "style": "hover:shadow-yellow-500"
   },
-
   {
-    "id": 40, 
-    "name": "html"
+      "id": 4,
+      "src": "sql",
+      "title": "SQL",
+      "style": "hover:shadow-yellow-500"
   },
-
   {
-    "id": 60, 
-    "name": "mysql"
+      "id": 5,
+      "src": "html",
+      "title": "HTML",
+      "style": "hover:shadow-orange-500"
   },
-
   {
-    "id": 70, 
-    "name": "mongo"
-  },
-
-  {
-    "id": 21, 
-    "name": "react"
-  },
-
-  {
-    "id": 50, 
-    "name": "bootstrap"
-  },  
-
-
-
-  {
-    "id": 80, 
-    "name": "express"
+      "id": 6,
+      "src": "css",
+      "title": "CSS",
+      "style": "hover:shadow-blue-500"
   }
 ]

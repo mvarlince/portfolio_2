@@ -3,7 +3,7 @@ import { Github } from "react-bootstrap-icons";
 
 export default function Footer() {
 
-  const githubUrl = "https://github.com/jsohndata/neo-tokyo-portfolio";
+  const githubUrl = "https://github.com/mvarlince/portfolio_2";
   const currentYear = new Date().getFullYear();
 
   return (
