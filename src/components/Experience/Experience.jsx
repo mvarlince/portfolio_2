@@ -32,7 +32,7 @@ export default function Experience() {
             <h3 className="text-center">
               Software Support Analyst <span className="d-md-block"></span>
             </h3>
-            <p> Anthology Inc. / Blackboard <br></br> May 2019 - March 2022</p>
+            <p> Anthology Inc. + Blackboard <br></br> May 2019 - March 2022</p>
             <p className="text-center text-md-start">
               As a software support analyst, I managed 8+ client accounts and
               consistently ranked in the top 5 for incident resolution. I

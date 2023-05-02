@@ -10,7 +10,7 @@
 
   {
     "id": 2,
-    "name": "Affirmation",
+    "name": "MindBoost",
     "about": "Affirmation is a web application that helps users to create a list of affirmations that they can use to motivate themselves. It is built with React.js, Node.js, Express.js, and MongoDB.",
     "website": "e",
     "cover": "affirmation.webp",
