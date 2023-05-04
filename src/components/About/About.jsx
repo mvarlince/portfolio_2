@@ -21,7 +21,7 @@ export default function About() {
       <Row className="justify-content-center">
         <Col xs={8} md={5} lg={3}>
           <Image
-            src={`${process.env.PUBLIC_URL}/images/hdsht.png`}
+            src={`/images/hdsht.png`}
             alt="Varlince Meran"
             className="headshot button-effect border-style"
             fluid

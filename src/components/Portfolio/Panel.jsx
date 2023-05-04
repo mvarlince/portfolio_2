@@ -14,7 +14,7 @@ export default function Panel ({ data:{id, name, about, website, cover} }) {
           <a href={website} 
              target="_blank"
              rel="noreferrer"><Card.Img
-            src={`${process.env.PUBLIC_URL}/images/${cover}`} /></a>
+            src={`/images/${cover}`} /></a>
         </figure>
 
         <div className="content">

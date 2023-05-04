@@ -1,4 +1,3 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow: /creative/
-Disallow: /neo-tokyo-portfolio/creative/
+Disallow:

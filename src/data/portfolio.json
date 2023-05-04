@@ -1,5 +1,13 @@
 [
   {
+    "id": 0.9,
+    "name": "Sentimental Genie",
+    "about": "Sentimental Genie is a full stack web app that uses OpenAI's GPT-3 AI model to generate a response based on the user's input. It is built with React.js, Node.js, Express.js.",
+    "website": "",
+    "cover": "soon.webp",
+    "skill": ["Javascript","Express.js", "HTML", "CSS"]
+  },
+  {
     "id": 1,
     "name": "LineupWiz",
     "about": "LineupWiz is a web application that helps fantasy football players to create the best lineup for their team. It is built with React.js, Node.js, Express.js, and MongoDB.",
@@ -11,7 +19,7 @@
   {
     "id": 2,
     "name": "MindBoost",
-    "about": "Affirmation is a web application that helps users to create a list of affirmations that they can use to motivate themselves. It is built with React.js, Node.js, Express.js, and MongoDB.",
+    "about": "MindBoost is a web application that helps users to create a list of affirmations that they can use to motivate themselves. It is built with React.js, Node.js, Express.js, and MongoDB.",
     "website": "e",
     "cover": "affirmation.webp",
     "skill": ["HTML", "JavaScript", "CSS"]
@@ -20,7 +28,7 @@
   {
     "id": 3,
     "name": "TaskHero",
-    "about": "TaskHero is a web application that helps users to create a list of tasks that they need to complete. It is built with React.js, Node.js, Express.js, and MongoDB.",
+    "about": "TaskHero is a mobile application that helps users to create a list of tasks that they need to complete. It is built with React.js, Node.js, Express.js, and MongoDB.",
     "website": "",
     "cover": "taskhero.webp",
     "skill": ["React.js"]
@@ -30,7 +38,7 @@
     "id": 4,
     "name": "Hex Generator",
     "about": "Hex generator is a web application that helps users to generate a random hex color.",
-    "website": "https://jsohndata.github.io/cozy-counter/",
+    "website": "https://portfolio-random-hex-generator.web.app/",
     "cover": "hex.webp",
     "skill": ["React.js"]
   }

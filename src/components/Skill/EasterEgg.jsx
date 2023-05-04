@@ -4,12 +4,12 @@ export default function EasterEgg( {iconName} ) {
 
   return (
     <a
-      href="https://jsohndata.github.io/magic-color-xxl/"
+      href=""
       target="_blank"
       className="easter-egg"
       rel="noreferrer">
         <Image 
-          src={`${process.env.PUBLIC_URL}/icons/${iconName}.svg`}
+          src={`/icons/${iconName}.svg`}
           fluid
           className="button-effect"
           style={{display: "inline-block", width: "100px"}} />

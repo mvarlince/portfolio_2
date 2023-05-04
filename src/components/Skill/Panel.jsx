@@ -6,7 +6,7 @@ export default function Panel( {iconName} ) {
   return (
     <>
     <Image
-      src={`${process.env.PUBLIC_URL}/icons/${iconName}.png`}
+      src={`/icons/${iconName}.png`}
       className="button-effect"
       style={{display: "inline-block", width: "100px"}} />
     </>

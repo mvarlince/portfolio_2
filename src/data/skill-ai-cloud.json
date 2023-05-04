@@ -10,5 +10,11 @@
       "src": "microsoftAzure",
       "title": "Microsoft Azure",
       "style": "hover:shadow-blue-500"
-  }
+  },
+  {
+    "id": 13,
+    "src": "OpenAI",
+    "title": "OpenAI",
+    "style": "hover:shadow-blue-500"
+}
 ]
