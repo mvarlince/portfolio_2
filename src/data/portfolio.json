@@ -2,8 +2,8 @@
   {
     "id": 0.9,
     "name": "Sentimental Genie",
-    "about": "A full stack mobile app that uses OpenAI's GPT-3 AI model to generate a sentiment analysis (positive, negative or neutral) based on the user's input. It is built with React Native, Node.js, Express.js.",
-    "website": "",
+    "about": "A full stack web and mobile app that uses OpenAI's GPT-3 AI model to generate a sentiment analysis (positive, negative or neutral) based on the user's input. It is built with React Native, Node.js, Express.js.",
+    "website": "https://github.com/mvarlince/sentimental-genie-web",
     "cover": "soon.webp",
     "skill": ["Javascript","Express.js", "HTML", "CSS"]
   },
@@ -11,7 +11,7 @@
     "id": 3,
     "name": "TaskHero",
     "about": "TaskHero is a mobile application that helps users to create a list of tasks that they need to complete. It is built with React.js, Node.js, Express.js, and MongoDB.",
-    "website": "",
+    "website": "https://github.com/mvarlince/taskHero-mobile",
     "cover": "taskhero.webp",
     "skill": ["React.js"]
   },
@@ -28,7 +28,7 @@
     "id": 2,
     "name": "MindBoost",
     "about": "A web application that helps users to create a list of affirmations that they can use to motivate themselves. It is built with React.js, Node.js, Express.js, and MongoDB.",
-    "website": "e",
+    "website": "https://github.com/mvarlince/affirmation",
     "cover": "affirmation.webp",
     "skill": ["HTML", "JavaScript", "CSS"]
   },
