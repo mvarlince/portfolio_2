@@ -1,40 +1,55 @@
 [
   {
-    "id": 0.9,
+    "id": 1,
     "name": "Sentimental Genie",
     "about": "A full stack web and mobile app that uses OpenAI's GPT-3 AI model to generate a sentiment analysis (positive, negative or neutral) based on the user's input. It is built with React Native, Node.js, Express.js.",
     "website": "https://github.com/mvarlince/sentimental-genie-web",
     "cover": "soon.webp",
-    "skill": ["Javascript","Express.js", "HTML", "CSS"]
+    "skill": ["Javascript", "Express.js", "HTML", "CSS"]
   },
   {
-    "id": 3,
+    "id": 2,
     "name": "TaskHero",
-    "about": "TaskHero is a mobile application that helps users to create a list of tasks that they need to complete. It is built with React.js, Node.js, Express.js, and MongoDB.",
+    "about": "TaskHero is a mobile application that helps users to create a list of tasks that they need to complete. It is built with React Native, Node.js, Express.js, and MongoDB.",
     "website": "https://github.com/mvarlince/taskHero-mobile",
     "cover": "taskhero.webp",
     "skill": ["React.js"]
   },
   {
-    "id": 1,
+    "id": 3,
     "name": "LineupWiz",
     "about": "A web application that helps fantasy football players to create the best lineup for their team. It is built with React.js, Node.js, Express.js, and MongoDB.",
     "website": "https://lineupwiz.web.app",
     "cover": "lineupwiz.webp",
-    "skill": ["Javascript","Express.js", "HTML", "CSS"]
+    "skill": ["Javascript", "Express.js", "HTML", "CSS"]
   },
-
   {
-    "id": 2,
+    "id": 4,
+    "name": "AquaTrack",
+    "about": "AquaTrack is a mobile application that helps users track their water intake based on a set goal. It is built with React Native, Node.js.",
+    "website": "https://github.com/mvarlince/aqua-track",
+    "cover": "aqua-track.webp",
+    "skill": ["React.js"]
+  },
+  {
+    "id": 5,
+    "name": "AI Receipt Recognizer",
+    "about": "A Python program that extracts key information and returns structured JSON data. It is built with Python, Azure Storage, Form Recognizer's receipt model.",
+    "website": "https://github.com/mvarlince/ai-receipt-recognizer",
+    "cover": "receipt_recognizer.webp",
+    "skill": ["React.js"]
+  },
+  {
+    "id": 6,
     "name": "MindBoost",
     "about": "A web application that helps users to create a list of affirmations that they can use to motivate themselves. It is built with React.js, Node.js, Express.js, and MongoDB.",
-    "website": "https://github.com/mvarlince/affirmation",
+    "website": "https://mindbood.web.app",
     "cover": "affirmation.webp",
     "skill": ["HTML", "JavaScript", "CSS"]
   },
 
   {
-    "id": 4,
+    "id": 7,
     "name": "Hex Generator",
     "about": "Hex generator is a web application that helps users to generate a random hex color.",
     "website": "https://portfolio-random-hex-generator.web.app/",
