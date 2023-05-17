@@ -43,7 +43,7 @@
     "id": 6,
     "name": "MindBoost",
     "about": "A web application that helps users to create a list of affirmations that they can use to motivate themselves. It is built with React.js, Node.js, Express.js, and MongoDB.",
-    "website": "https://mindbood.web.app",
+    "website": "https://mindboost.web.app",
     "cover": "affirmation.webp",
     "skill": ["HTML", "JavaScript", "CSS"]
   },

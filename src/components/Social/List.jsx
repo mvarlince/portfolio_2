@@ -11,7 +11,6 @@ export default function List () {
               <span><q>Let's connect and collab!</q></span></h2>
           </Col>
         </Row>
-
         <Row>
           <Col className="text-center">
             <p className="text-white">Work in Progress: - links - </p>
