@@ -1,20 +1,23 @@
 import { Container, Row, Col } from "../../utilis/Bootstrap.jsx";
+import data from "../../data/social.json";
+import Panel from "./Panel.jsx";
 
-export default function List () {
-
+export default function List() {
   return (
     <section>
-      <Container id="skills" className="p-5">        
+      <Container id="skills" className="p-5">
         <Row>
           <Col className="text-center">
-            <h2 className="text-white">Social
-              <span><q>Let's connect and collab!</q></span></h2>
+            <h2 className="text-white">
+              Social
+              <span>Let's connect and collab!</span>
+            </h2>
           </Col>
         </Row>
         <Row>
-          <Col className="text-center">
-            <p className="text-white">Work in Progress: - links - </p>
-          </Col>
+          {data.map((element) => {
+            return <Panel key={element.id} element={element} />
+          })}
         </Row>
       </Container>
     </section>
