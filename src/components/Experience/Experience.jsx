@@ -1,9 +1,14 @@
-import { Container, Row, Col } from "../../utilis/Bootstrap.jsx";
+import { Container, Row, Col, Button } from "../../utilis/Bootstrap.jsx";
 
 export default function Experience() {
+
+    const handleDownload = () => {
+      window.open('Valince_Meran_Resume_2023.pdf', '_blank');
+    };
+
   return (
     <main>
-      <Container fluid id="three-things" className="p-5">
+      <Container fluid id="three-things" className="p-5 justify-content-center align-items-cente">
         <Row>
           <Col>
             <h2 className="text-center">
@@ -105,7 +110,19 @@ export default function Experience() {
               escalations.
             </p> */}
           </Row>
-
+          <Button
+                size="lg"
+                variant="outline-danger"
+                className="button-style position-center"
+              >
+                           <a
+            href='Valince_Meran_Resume_2023.pdf'
+            className="flex justify-between items-center w-full text-white"
+            onClick={handleDownload}
+          >
+            Download My Resume
+          </a> 
+              </Button>
       </Container>
     </main>
   );
