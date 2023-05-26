@@ -3,7 +3,6 @@ import skillDev from "../../data/skill-dev.json";
 import skillTechnologies from "../../data/skill-technologies.json";
 import skillAICloud from "../../data/skill-ai-cloud.json";
 import Panel from "./Panel.jsx";
-import EasterEgg from "./EasterEgg.jsx";
 
 export default function Skill() {
   return (

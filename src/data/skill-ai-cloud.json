@@ -13,7 +13,7 @@
   },
   {
     "id": 13,
-    "src": "OpenAI",
+    "src": "openai",
     "title": "OpenAI",
     "style": "hover:shadow-blue-500"
 }
