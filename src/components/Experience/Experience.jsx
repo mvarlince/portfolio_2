@@ -13,24 +13,18 @@ export default function Experience() {
           </Col>
         </Row>
 
-        <Col className="justify-content-center g-5">
-          <Row sm={8} lg={3}>
+        <Row sm={8} lg={3} className="justify-content-center g-5">
             <h3 className="text-center">
-              Software Engineer Intern <span className="d-md-block"> </span>
+              Software Engineer Intern
+              <span className="d-md-block"></span>
             </h3>
             <p>
               {" "}
-              Boca Code <br></br> April 2023 - Present
-            </p>
-            <p className="text-center text-md-start">
-              I'm officially a software engineer! At Boca Code, I develop and
-              maintained software projects using Typescript and REACT. <br></br>
-              Also, I tutored students on coding concepts such as data structures,
-              algorithms, and object-oriented programming.
+              Boca Code <br></br> March 2023 - Present
             </p>
           </Row>
 
-          <Row sm={8} lg={3}>
+          <Row sm={8} lg={3} className="justify-content-center g-5">
             <h3 className="text-center">
               Software Support Analyst <span className="d-md-block"></span>
             </h3>
@@ -38,7 +32,7 @@ export default function Experience() {
               {" "}
               Anthology Inc. + Blackboard <br></br> May 2019 - March 2022
             </p>
-            <p className="text-center text-md-start">
+            {/* <p className="text-center text-md-start">
 
               As a software support analyst, I managed 8+ client accounts and ranked in the top 5 for incident resolution. 
               I troubleshooted errors and data issues, reproduced
@@ -46,10 +40,10 @@ export default function Experience() {
               enterprise Azure-based application. <br></br> Additionally, I managed
               customer support accounts for efficient incident routing and app
               upgrades/releases.
-            </p>
+            </p> */}
           </Row>
 
-          <Row sm={8} lg={3}>
+          <Row sm={8} lg={3} className="justify-content-center g-5">
             <h3 className="text-center">
               Application Support Specialist <br></br> Exam Coordinator{" "}
               <span className="d-md-block"></span>
@@ -58,7 +52,7 @@ export default function Experience() {
               {" "}
               Honorlock Proctoring <br></br> April 2018 - May 2019
             </p>
-            <p className="text-center text-md-start">
+            {/* <p className="text-center text-md-start">
               As an application support specialist, I resolved
               high-priority customer issues through live chats, emails, and
               phone calls. I also mentored tier 1 agents with handling
@@ -68,10 +62,10 @@ export default function Experience() {
               to complete critical tasks such as data analysis, bug reporting,
               manual software testing, and information security training
               programs. 
-            </p>
+            </p> */}
           </Row>
 
-          <Row sm={8} lg={3}>
+          <Row sm={8} lg={3} className="justify-content-center g-5">
             <h3 className="text-center">
               Technical Assistant <span className="d-md-block"></span>
             </h3>
@@ -79,7 +73,7 @@ export default function Experience() {
               {" "}
               Florida Atlantic University <br></br> January 2017 - May 2018
             </p>
-            <p className="text-center text-md-start">
+            {/* <p className="text-center text-md-start">
               As a technical assistant, I led the course migration to a
               cloud-based Learning Management System and provided immediate
               technical support. I also resolved computer access, password,
@@ -88,10 +82,10 @@ export default function Experience() {
               In addition, I worked on various projects assigned by
               management, including media coordination, video production, and
               data analytics.
-            </p>
+            </p> */}
           </Row>
 
-          <Row sm={8} lg={3}>
+          <Row sm={8} lg={3} className="justify-content-center g-5">
             <h3 className="text-center">
               Information Technology Intern <span className="d-md-block"></span>
             </h3>
@@ -100,7 +94,7 @@ export default function Experience() {
               Broward College - Campus Technology <br></br> August 2016 -
               December 2016
             </p>
-            <p className="text-center text-md-start">
+            {/* <p className="text-center text-md-start">
               As an IT intern, I served as the primary point of contact for
               faculty seeking technical assistance through various channels. I
               provided technical support to technicians by installing,
@@ -109,9 +103,9 @@ export default function Experience() {
               Additionally, I proactively monitored the Service Desk
               ticket queue, efficiently resolving tickets and managing
               escalations.
-            </p>
+            </p> */}
           </Row>
-        </Col>
+
       </Container>
     </main>
   );
