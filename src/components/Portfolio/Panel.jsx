@@ -20,6 +20,7 @@ export default function Panel ({ data:{id, name, about, website, cover} }) {
         <div className="content">
           <h3>{name}</h3>
           <p>{about}</p>
+          {/* <button> TechStack </button> */}
         </div>
       </Card>
     </Col>

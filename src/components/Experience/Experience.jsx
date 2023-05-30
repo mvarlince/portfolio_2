@@ -4,7 +4,7 @@ export default function Experience() {
 
     const handleDownload = () => {
       window.open('Valince_Meran_Resume_2023.pdf', '_blank');
-    };
+    }
 
   return (
     <main>
