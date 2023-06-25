@@ -203,6 +203,12 @@ h2 span {
   border: 1px solid var(--color-highlight-neon);
 }
 
+/* .button-style-links{
+  text-align: center;
+  text-justify: center;
+  color: white
+} */
+
 .button-effect {
   display: block;
   transform: scale(1);
@@ -214,6 +220,7 @@ h2 span {
   filter: drop-shadow(0 0 20px rgba(0, 5, 9, 0.919));
   z-index: 999;
 }
+
 
 /* Disable hover effects on mobile */
 @media (max-width: 768px) {

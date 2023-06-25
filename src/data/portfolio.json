@@ -4,6 +4,7 @@
     "name": "Sentimental Genie",
     "about": "A full stack web and mobile app that uses OpenAI's GPT-3 AI model to generate a sentiment analysis (positive, negative or neutral) based on the user's input. It is built with React Native, Node.js, Express.js.",
     "website": "https://github.com/mvarlince/sentimental-genie-web",
+    "github": "https://github.com/mvarlince/sentimental-genie",
     "cover": "soon.webp",
     "skill": ["Javascript", "Express.js", "HTML", "CSS"]
   },
@@ -12,6 +13,7 @@
     "name": "SQL Generator",
     "about": "A full stack web app that uses OpenAI's GPT-3 turbo AI model user can utilize to get SQL help. It is built with Typescript, React, Node.js, Express.js.",
     "website": "https://sql-generator.web.app",
+    "github": "https://github.com/mvarlince/sql-generator",
     "cover": "sql-gen2.webp",
     "skill": ["Javascript", "Express.js", "HTML", "CSS"]
   },
@@ -20,6 +22,7 @@
     "name": "TaskHero",
     "about": "TaskHero is a mobile application that helps users to create a list of tasks that they need to complete. It is built with React Native, Node.js, Express.js, and MongoDB.",
     "website": "https://github.com/mvarlince/taskHero-mobile",
+    "github": "https://github.com/mvarlince/task-hero",
     "cover": "taskhero.webp",
     "skill": ["React.js"]
   },
@@ -28,6 +31,7 @@
     "name": "LineupWiz",
     "about": "A web application that helps fantasy football players to create the best lineup for their team. It is built with React.js, Node.js, Express.js, and MongoDB.",
     "website": "https://lineupwiz.web.app",
+    "github": "https://github.com/mvarlince/lineupwiz",
     "cover": "lineupwiz.webp",
     "skill": ["Javascript", "Express.js", "HTML", "CSS"]
   },
@@ -36,6 +40,7 @@
     "name": "AquaTrack",
     "about": "AquaTrack is a mobile application that helps users track their water intake based on a set goal. It is built with React Native, Node.js.",
     "website": "https://github.com/mvarlince/aqua-track",
+    "github": "https://github.com/mvarlince/aqua-track",
     "cover": "aqua-track.webp",
     "skill": ["React.js"]
   },
@@ -44,6 +49,7 @@
     "name": "AI Receipt Recognizer",
     "about": "A Python program that extracts key information and returns structured JSON data. It is built with Python, Azure Storage, Form Recognizer's receipt model.",
     "website": "https://github.com/mvarlince/ai-receipt-recognizer",
+    "github": "https://github.com/mvarlince/receipt-recognizer",
     "cover": "receipt_recognizer.webp",
     "skill": ["React.js"]
   },
@@ -52,6 +58,7 @@
     "name": "MindBoost",
     "about": "A web application that helps users to create a list of affirmations that they can use to motivate themselves. It is built with React.js, Node.js, Express.js, and MongoDB.",
     "website": "https://mindboost.web.app",
+    "github": "https://github.com/mvarlince/mindboost",
     "cover": "affirmation.webp",
     "skill": ["HTML", "JavaScript", "CSS"]
   },
@@ -61,6 +68,7 @@
     "name": "Hex Generator",
     "about": "Hex generator is a web application that helps users to generate a random hex color.",
     "website": "https://portfolio-random-hex-generator.web.app/",
+    "github": "https://github.com/mvarlince/hex-generator",
     "cover": "hex.webp",
     "skill": ["React.js"]
   }
