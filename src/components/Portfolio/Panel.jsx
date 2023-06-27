@@ -18,14 +18,14 @@ export default function Panel({ data: { id, name, about, website, cover } }) {
         <div className="content ">
           <h3>{name}</h3>
           <p>{about}</p>
-          <Row>
+          {/* <Row>
             <Col>
               <Button
                 size="lg"
                 variant="outline-danger"
                 className="button-style-links button-effect"
               >
-                Code in Github
+                Github
               </Button>
             </Col>
             <Col>
@@ -37,7 +37,7 @@ export default function Panel({ data: { id, name, about, website, cover } }) {
               TechStack
             </Button>
             </Col>
-          </Row>
+          </Row> */}
         </div>
       </Card>
     </Col>
