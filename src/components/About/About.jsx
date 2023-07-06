@@ -39,7 +39,7 @@ export default function About() {
 
           <p>
             Currently, I am a software engineer and lately I have been learning
-            AI and cloud computing. All three of these fields are rapidly growing and changing the world. I am excited to be a part of this change and to see what the future holds.
+            C#/.NET and PHP.
           </p>
 
         </Col>

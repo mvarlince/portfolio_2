@@ -16,11 +16,11 @@ export default function Intro() {
               <span>Hi there! My name is</span> Varlince Meran
             </h1>
             <p>
-              I am a software engineer living in
+              I am a software developer living in
               south Florida. I have 6 years of experience in technical roles.
               <br />
               <br />
-              Currently a proficient software engineer writing clean and
+              Currently a C#/.NET developer at a non-profit organization writing clean and
               scalable code. I have a knack for problem-solving, a talent for
               clear communication, and a team player attitude. 
               <br />
