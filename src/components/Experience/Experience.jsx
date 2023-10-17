@@ -3,7 +3,7 @@ import { Container, Row, Col, Button } from "../../utilis/Bootstrap.jsx";
 export default function Experience() {
 
     const handleDownload = () => {
-      window.open('Valince_Meran_Resume_2023.pdf', '_blank');
+      window.open('https://varlince-portfolio.web.app/Valince_Meran_Resume_2023.pdf', '_blank');
     }
 
   return (

@@ -1,16 +1,16 @@
 [
-  {
-      "id": 1,
-      "src": "javascript",
-      "title": "Javascript",
-      "style": "hover:shadow-yellow-500"
-  },
-  {
-      "id": 2,
-      "src": "typescript",
-      "title": "Typescript",
-      "style": "hover:shadow-blue-500"
-  },
+    {
+        "id": 1,
+        "src": "csharp",
+        "title": "C#",
+        "style": "hover:shadow-blue-500"
+    },
+    {
+        "id": 2,
+        "src": "javascript",
+        "title": "Javascript",
+        "style": "hover:shadow-yellow-500"
+    },
   {
       "id": 3,
       "src": "python",

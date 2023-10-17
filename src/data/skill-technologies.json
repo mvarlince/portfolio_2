@@ -1,5 +1,13 @@
 [
+    {
+    
+        "id": 6,
+        "src": "dotnet",
+        "title": ".NET",
+        "style": "hover:shadow-green-500"
+    },
 {
+    
     "id": 8,
     "src": "node",
     "title": "Node Js",
