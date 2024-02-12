@@ -12,12 +12,6 @@
         "style": "hover:shadow-yellow-500"
     },
   {
-      "id": 3,
-      "src": "python",
-      "title": "Python",
-      "style": "hover:shadow-yellow-500"
-  },
-  {
       "id": 4,
       "src": "sql",
       "title": "SQL",

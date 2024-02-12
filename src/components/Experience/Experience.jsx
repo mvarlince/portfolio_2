@@ -3,7 +3,7 @@ import { Container, Row, Col, Button } from "../../utilis/Bootstrap.jsx";
 export default function Experience() {
 
     const handleDownload = () => {
-      window.open('https://varlince-portfolio.web.app/Valince_Meran_Resume_2023.pdf', '_blank');
+      window.open('Varlince_Meran_Resume_2024.pdf', '_blank');
     }
 
   return (
@@ -20,7 +20,7 @@ export default function Experience() {
         
         <Row sm={8} lg={3} className="justify-content-center g-5">
           <h3 >
-            Jr Programmer - C# .NET Developer
+            Jr Programmer - .NET Developer
             <span className="d-md-block"></span>
           </h3>
           <p>
@@ -87,11 +87,11 @@ export default function Experience() {
                 className="button-style position-center"
               >
                            <a
-            href='Valince_Meran_Resume_2023.pdf'
+            href='Varlince_Meran_Resume_2024.pdf'
             className="flex justify-between items-center w-full text-white"
             onClick={handleDownload}
           >
-            Download My Resume
+            View My Resume
           </a> 
               </Button>
       </Container>
