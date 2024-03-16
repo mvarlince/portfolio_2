@@ -20,7 +20,7 @@ export default function Experience() {
         
         <Row sm={8} lg={3} className="justify-content-center g-5">
           <h3 >
-            Jr Programmer - .NET Developer
+            .NET Developer
             <span className="d-md-block"></span>
           </h3>
           <p>
@@ -51,7 +51,7 @@ export default function Experience() {
 
           <Row sm={8} lg={3} className="justify-content-center g-5">
             <h3 className="text-center">
-              Application Support Specialist <br></br> Exam Coordinator{" "}
+              Application Support Specialist <br></br>
               <span className="d-md-block"></span>
             </h3>
             <p>
